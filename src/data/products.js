@@ -1,14 +1,14 @@
-export const HERO_BANNER_IMAGE = '/src/assets/images/hero_aura_gold_1795094484323.webp';
-export const SIGNATURE_BANNER_IMAGE = '/src/assets/images/signature_lineup_banner_1795094483287.webp';
+export const HERO_BANNER_IMAGE = '/images/hero_aura_gold_1795094484323.jpg';
+export const SIGNATURE_BANNER_IMAGE = '/images/signature_lineup_banner_1795094483287.jpg';
 
-const IMG_ROYAL_OUD = '/src/assets/images/perfume_royal_oud_1795094483540.webp';
-const IMG_BLOOM_BELLE = '/src/assets/images/perfume_bloom_belle_1795094484100.webp';
-const IMG_OCEAN_BREEZE = '/src/assets/images/perfume_ocean_breeze_1795094483249.webp';
-const IMG_GOLDEN_TOUCH = '/src/assets/images/perfume_golden_touch_1795094485307.webp';
-const IMG_VELVET_ROSE = '/src/assets/images/perfume_velvet_rose_1795094484835.webp';
-const IMG_SAFFRON_WOOD = '/src/assets/images/perfume_saffron_wood_1795094483804.webp';
-const IMG_WHITE_JASMINE = '/src/assets/images/perfume_white_jasmine_1795094483529.webp';
-const IMG_IMPERIAL_NOIR = '/src/assets/images/perfume_imperial_noir_1795094483895.webp';
+const IMG_ROYAL_OUD = '/images/perfume_royal_oud_1795094483540.jpg';
+const IMG_BLOOM_BELLE = '/images/perfume_bloom_belle_1795094484100.jpg';
+const IMG_OCEAN_BREEZE = '/images/perfume_ocean_breeze_1795094483249.jpg';
+const IMG_GOLDEN_TOUCH = '/images/perfume_golden_touch_1795094485307.jpg';
+const IMG_VELVET_ROSE = '/images/perfume_velvet_rose_1795094484835.jpg';
+const IMG_SAFFRON_WOOD = '/images/perfume_saffron_wood_1795094483804.jpg';
+const IMG_WHITE_JASMINE = '/images/perfume_white_jasmine_1795094483529.jpg';
+const IMG_IMPERIAL_NOIR = '/images/perfume_imperial_noir_1795094483895.jpg';
 
 export const PRODUCTS = [
   // ... (baqi poora data waisa hi rahega, sirf image paths .webp ho gaye)
