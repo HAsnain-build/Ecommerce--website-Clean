@@ -1,0 +1,6 @@
+{
+  "name": "Aura Luxury Perfume",
+  "description": "A responsive React-based perfume e-commerce demo featuring product discovery, search, filters, wishlist, cart, demo authentication and checkout flows with browser-local persistence.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
